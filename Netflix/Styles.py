@@ -1,4 +1,5 @@
 def getButtonStyle():
+    """Returns the css style for buttons."""
     return {
         'padx': 7,
         'pady': 7,
@@ -12,6 +13,7 @@ def getButtonStyle():
 
 
 def getTextFieldStyle():
+    """Returns the css style for text fields."""
     return {
         'bg': '#795649',
         'fg': '#f4e5c3',
@@ -20,4 +22,5 @@ def getTextFieldStyle():
     }
 
 def getBackgroundColour():
+    """Returns the main background colour"""
     return '#2b2b2b'

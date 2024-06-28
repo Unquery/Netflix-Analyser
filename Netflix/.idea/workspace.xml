@@ -29,6 +29,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.GuiMaker.executor&quot;: &quot;Run&quot;,
     &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlotMethods (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.PlotMethods.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -40,7 +41,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivmss\Desktop\Netflix\Netflix" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PlotMethods (1)">
     <configuration name="GuiMaker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Netflix" />
       <option name="ENV_FILES" value="" />
@@ -55,7 +61,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/GuiMaker.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ivmss\Desktop\Netflix\Netflix\GuiMaker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +84,30 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ivmss\Desktop\Netflix\Netflix\Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PlotMethods (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Netflix" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PlotMethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/PlotMethods.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ivmss\Desktop\Netflix\Netflix\PlotMethods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,6 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PlotMethods (1)" />
         <item itemvalue="Python.Main" />
         <item itemvalue="Python.GuiMaker" />
         <item itemvalue="Python.PlotMethods" />
@@ -136,6 +166,7 @@
       <workItem from="1719243908609" duration="3526000" />
       <workItem from="1719342790817" duration="347000" />
       <workItem from="1719343154039" duration="5784000" />
+      <workItem from="1719574597297" duration="357000" />
     </task>
     <servers />
   </component>
@@ -146,5 +177,7 @@
     <SUITE FILE_PATH="coverage/Netflix$GuiMaker.coverage" NAME="GuiMaker Coverage Results" MODIFIED="1719348752473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/Netflix$PlotMethods.coverage" NAME="PlotMethods Coverage Results" MODIFIED="1719346929426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/Netflix$Main.coverage" NAME="Main Coverage Results" MODIFIED="1719349270895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Main_py$Main.coverage" NAME="Main Coverage Results" MODIFIED="1719574935963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/Main_py$PlotMethods__1_.coverage" NAME="PlotMethods (1) Coverage Results" MODIFIED="1719574939769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
